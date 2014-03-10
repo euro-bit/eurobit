@@ -7,6 +7,8 @@ We are taking a "shenanigan free" approach to launch by trying to make sure we h
 You won't have to worry about forked chains.
 
 Details:
+
+
 Algorithm: scrypt
 Max coins: 9,999,999,999 EBI
 Block time: 180 Seconds
