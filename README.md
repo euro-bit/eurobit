@@ -1,5 +1,5 @@
 Eurobit 
-===================
+
 Development process
 ===================
 
