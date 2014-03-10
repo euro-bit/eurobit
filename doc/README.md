@@ -16,16 +16,29 @@ Difficulty re-target time: 1 hours
 Pre-mining: Absolutely none!
 
 Block rewards:
+
 Blocks 1-500 = 1,000 EBI
+
 Blocks 501-25,000 = 50,000 EBI
+
 Blocks 25,001-50,000 = 25,000 EBI
+
 Blocks 50,001-75,000 = 10,000 EBI
+
 Blocks 75,001-100,000 = 5,000 EBI
+
 Blocks 100,001-300,000 = 1,000 EBI
+
 Blocks 300,001-500,000 = 500 EBI
+
 Blocks 500,001-2,000,000 = 200 EBI
+
 Blocks 2000001-3000000 =100 EBI
+
 After 4,200,000 half
+
+
+
 Ticker Symbol & Coin Name
 EBI - EuroBit
 
